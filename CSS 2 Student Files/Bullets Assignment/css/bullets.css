@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.tomato {list-style-image: url(../images/tom.png);}
+.orange {list-style-image: url(../images/o.png);}
+.banana {list-style-image: url(../images/ban.png);}

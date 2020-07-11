@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+table {
+	width:360px;
+	background-color:#ccc;
+	border: thin #000000;
+
+
+}
+
+td { 
+	width:120px;
+	text-align: center;
+	color:#0000FF;
+	
+
+}
+
+
+tr:hover {
+	
+	background-color:#ffffff;
+
+}
